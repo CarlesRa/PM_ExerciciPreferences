@@ -2,11 +2,14 @@ package com.carlesramos.pm_exercicipreferences;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.preference.CheckBoxPreference;
+
 import android.os.Bundle;
 import com.carlesramos.pm_exercicipreferences.preference_fragment.PreferenceFragment;
 
 public class PreferencesActivity extends AppCompatActivity {
     private Toolbar toolbar;
+    private CheckBoxPreference checkBoxPreference;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
