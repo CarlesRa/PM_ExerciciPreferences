@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PM_ExerciciPreferences</string>
+    <string name="home_action">Home</string>
+    <string name="settings_action">Preferences</string>
+    <string name="conexion_data">Conexion data</string>
+    <string name="et_user">User</string>
+    <string name="user_name">User name</string>
+    <string name="et_passwd">Password</string>
+    <string name="et_pass_sumary">Enter your password</string>
+    <string name="service">Service</string>
+    <string name="enable_service">Enable service</string>
+    <string name="sumary_service">The service will start automatically</string>
+    <string name="security">Security</string>
+    <string name="encryption">Use encryption</string>
+    <string name="cifrate_alg">Encryption algorithms</string>
+    <string name="tv_usuario">User:</string>
+    <string name="tv_passwd">Password:</string>
+    <string name="tv_service">Service:</string>
+    <string name="tv_cifrate">Cifrate:</string>
+    <string name="icReload">Reload</string>
+</resources>
